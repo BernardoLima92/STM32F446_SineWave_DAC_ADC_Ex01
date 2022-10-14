@@ -45,7 +45,18 @@ The next images shown the configuration done in STMCubeIDE.
 
 The sinewave created has 255 points. Each point receive a value that range from 0 to 4095. i,e the resolution of DAC is 12 bits.
 
-To calculate the frequency of the signal generated, we can use the following formule:
+To calculate the frequency of the signal generated, we can use the following formula:
+
+![formule](https://user-images.githubusercontent.com/114233216/195803894-29d1b247-68d2-41c8-8bb0-81189200b04e.png)
+
+In our code we use:
+Fckl = 120 MHz
+ARR = 254
+Ns = 256
+
+Applying this values on the formula we find a frequency of 1845 Hz. The figure below shows the result obtained in oscilloscope.
+
+
 
 
 
