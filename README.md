@@ -38,6 +38,8 @@ The next images shown the configuration done in STMCubeIDE.
 ![TIM8a](https://user-images.githubusercontent.com/114233216/195802189-447d06ab-b4df-4b26-af56-e906417793c7.png)
 ![TIM8b](https://user-images.githubusercontent.com/114233216/195802235-5ccf408c-6e6a-435d-90bf-6ab3cd693ed2.png)
 
+Obs: The value of the field pulse is 70. I don´t know why, but the image is not updated.
+
 5. UART Configuration
 
 ![UARTa](https://user-images.githubusercontent.com/114233216/195802289-624e8dfc-fd7a-48cb-8e33-5f0fb24e6a36.png)
