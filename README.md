@@ -51,7 +51,8 @@ To calculate the frequency of the signal generated, we can use the following for
 
 In our code we use: Fckl = 120 MHz; ARR = 254; Ns = 256;
 
-Applying this values on the formula we find a frequency of 1845 Hz. The figure below shows the result obtained in oscilloscope.
+Applying this values on the formula we find a frequency of 1838 Hz. The figure below shows the result obtained in oscilloscope. The value calculated by oscilloscope varied between 1,83KHz and 1,84KHz.
+
 
 ![7](https://user-images.githubusercontent.com/114233216/195807309-41c304ee-e4ad-491f-a1d5-61e15e87ea95.png)
 ![1](https://user-images.githubusercontent.com/114233216/195807314-059f3a94-2e25-44af-a603-17aa078e7766.png)
